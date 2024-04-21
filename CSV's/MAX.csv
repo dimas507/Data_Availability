@@ -1,0 +1,12 @@
+ID,Insertar código del estudiante,"Pregunta al niño: ""¿Puedes identificar las partes de esta planta?""","Registra las respuestas del niño y observa si identifica correctamente las partes básicas de la planta, como las raíces, tallo, hojas y flores. Del 1 al 10","Registra las respuestas del niño y observa si puede diferenciar entre diferentes tipos de semillas, como maíz, frijol, girasol y calabaza. Del 1 al 10",Semilla,Germinación,Plántula,Planta,"Pregunta al niño: ""¿Cuál es el orden correcto del proceso de germinación de una semilla?""
+Logro responder adecuadamente",¿Registra su cantidad de respuestas correctas obtenidas?,¿Registra su cantidad de respuestas erróneas obtenidas?,¿Te gustó usar la aplicación?,¿Fue fácil entender las actividades?,¿Qué fue lo que más te gustó de la aplicación?
+1,SJP932399,Sí,7,8,4,1,2,3,No,5,3,7,7,semillas
+2,SJP183846,Sí,9,9,1,2,3,3,No,7,1,6,7,
+3,SJP646343,Sí,8,10,1,2,3,4,Sí,6,2,5,6,
+4,SJP686794,Sí,8,7,1,1,2,3,No,6,2,6,5,
+5,SJP744954,Sí,6,6,2,1,3,4,No,4,4,5,6,
+6,SJP555192,Sí,9,10,1,2,3,4,Sí,5,3,7,5,
+7,SJP372528,Sí,9,7,1,2,3,4,Sí,6,2,7,7,
+8,SJP576663,Sí,6,9,2,2,3,4,No,4,4,5,4,
+9,SJP321173,Sí,7,6,1,2,3,4,Sí,7,1,6,5,
+10,SJP542966,Sí,10,10,1,2,3,4,Sí,7,1,6,6,
