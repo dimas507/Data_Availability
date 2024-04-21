@@ -1,0 +1,21 @@
+ID,Código del Observador,Lugar de la observación,Código asignado al estudiante observado,¿El estudiante muestra interés y participación en la interacción con la aplicación móvil?,¿El estudiante demuestra comprensión de las instrucciones y objetivos de la aplicación móvil?,¿El estudiante realiza las acciones requeridas correctamente dentro de la aplicación móvil?,¿El estudiante requiere apoyo o asistencia adicional durante la interacción con la aplicación móvil?,¿El estudiante utiliza el lenguaje verbal para expresarse durante la interacción con la aplicación móvil?,¿El estudiante utiliza gestos o señales para comunicarse durante la interacción con la aplicación móvil?,¿El estudiante busca compartir su experiencia o logros con el observador u otros presentes durante la interacción con la aplicación móvil?,"¿El estudiante muestra una atención sostenida hacia la aplicación móvil y las tareas que se le presentan? (Escala de 1 a 10, donde 1 es baja atención y 10 es alta atención)","¿El estudiante se distrae fácilmente durante la interacción con la aplicación móvil? (Escala de 1 a 10, donde 1 es fácilmente distraído y 10 es altamente enfocado)","¿Hay algún comportamiento, reacción o logro específico del estudiante durante la interacción con la aplicación móvil que destaque?"
+1,OBJ0001,Escuela Loma Colorada,SJP932399,Esta emocionado,Sí,Le lleva tiempo,Sí,Sí,No,Sí,7,9,
+2,OBJ0002,Escuela Loma Colorada,SJP932399,Sí tiene interés,Sí,Le lleva tiempo,Sí,Sí,No,Sí,9,8,
+3,OBJ0001,Escuela Loma Colorada,SJP183846,Sí tiene interés,Sí,Sí,Sí,Sí,Sí,Sí,7,7,
+4,OBJ0002,Escuela Loma Colorada,SJP183846,Esta emocionado,Sí,Le lleva tiempo,Sí,Sí,No,Sí,7,8,
+5,OBJ0001,Escuela Loma Colorada,SJP646343,Se aparta,Sí,Se aparta en lugares ruidosos,Sí,Sí,Sí,Sí,6,6,"El estudiante logra cumplir con las tareas, solo que al escuchar mucho ruido de sus alrededores se aparta y busca un lugar más callado."
+6,OJB0002,Escuela Loma Colorada,SJP646343,Sí tiene interés,Sí,Sí,Sí,Sí,No,Sí,7,6,"El estudiante muestra interés, pero al estar en un lugar que no filtra bien el ruido exterior este se aparta y se aísla. Hay que esperar un poco para retomar la intervención."
+7,OBJ0001,Escuela Loma Colorada,SJP686794,Esta emocionado,Sí,Le lleva tiempo,No,Sí,Sí,No,9,8,
+8,OBJ0002,Escuela Loma Colorada,SJP686794,Esta emocionado,Sí,Le lleva tiempo,No,Sí,No,No,7,9,
+9,OBJ0001,Escuela Loma Colorada,SJP744954,Sí tiene interés,Sí,Le lleva tiempo,No,Sí,Sí,No,9,7,
+10,OBJ0002,Escuela Loma Colorada,SJP744954,Sí tiene interés,Sí,Sí,No,Sí,Sí,Sí,8,9,
+11,OBJ0001,Escuela Loma Colorada,SJP555192,Esta emocionado,Sí,Sí,Sí,Sí,Sí,Sí,6,6,
+12,OBJ0002,Escuela Loma Colorada,SJP555192,Esta emocionado,Sí,Sí,Sí,Sí,Sí,Sí,5,6,
+13,OBJ0001,Escuela Loma Colorada,SJP372528,Sí tiene interés,Sí,Le lleva tiempo,No,Sí,Sí,Sí,8,8,
+14,OBJ0002,Escuela Loma Colorada,SJP372528,Esta emocionado,Sí,Le lleva tiempo,No,Sí,Sí,Sí,9,9,
+15,OBJ0001,Escuela Loma Colorada,SJP576663,Sí tiene interés,Sí,Sí,No,Sí,Sí,Sí,7,8,
+16,OBJ0002,Escuela Loma Colorada,SJP576663,Tiene miedo,Sí,Presenta algo de temor,Sí,Sí,Sí,Sí,8,8,
+17,OBJ0001,Escuela Loma Colorada,SJP321173,Sí tiene interés,Sí,Sí,No,Sí,Sí,No,6,7,
+18,OBJ0002,Escuela Loma Colorada,SJP321173,Sí tiene interés,Sí,Le lleva tiempo,Sí,Sí,Sí,Sí,7,8,
+19,OBJ0001,Escuela Loma Colorada,SJP542966,Esta emocionado,Sí,Le lleva tiempo,Sí,Sí,Sí,Sí,8,9,
+20,OBJ0002,Escuela Loma Colorada,SJP542966,Sí tiene interés,Sí,Le lleva tiempo,Sí,Sí,Sí,Sí,9,9,

@@ -1,0 +1,21 @@
+ID,Código del estudiante,Grupo,Trimestre al que corresponde la intervención,Escuela a la que pertenece,Etapa educativa del estudiante,Localidad,Fecha de nacimiento,Edad,Miembros en el hogar,Sexo
+1,SJP932399,Experimental,III,Escuela Bilingüe Loma Colorada,III,Loma Colorada,11/20/2014,9,5,Masculino
+2,SJP183846,Experimental,III,Escuela Bilingüe Loma Colorada,I,Loma Colorada,5/23/2017,6,4,Masculino
+3,SJP646343,Experimental,III,Escuela Bilingüe Loma Colorada,VI,Loma Colorada,2/8/2011,12,7,Masculino
+4,SJP686794,Experimental,III,Escuela Bilingüe Loma Colorada,III,Loma Colorada,9/11/2015,8,4,Femenino
+5,SJP744954,Experimental,III,Escuela Bilingüe Loma Colorada,II,Loma Colorada,9/11/2016,7,4,Masculino
+6,SJP555192,Experimental,III,Escuela Bilingüe Loma Colorada,VI,Loma Colorada,5/18/2010,13,5,Masculino
+7,SJP372528,Experimental,III,Escuela Bilingüe Loma Colorada,III,Loma Colorada,12/21/2014,9,5,Masculino
+8,SJP739318,Control,III,Escuela Bilingüe Loma Colorada,Kinder,Loma Colorada,4/3/2018,5,6,Masculino
+9,SJP143975,Control,III,Escuela Bilingüe Loma Colorada,Kinder,Loma Colorada,4/3/2018,5,6,Masculino
+10,SJP411423,Control,III,Escuela Bilingüe Loma Colorada,II,Loma Colorada,11/28/2016,7,6,Masculino
+11,SJP576663,Experimental,III,Escuela Bilingüe Loma Colorada,VI,Loma Colorada,3/11/2010,13,8,Masculino
+12,SJP321173,Experimental,III,Escuela Bilingüe Loma Colorada,VI,Loma Colorada,5/4/2009,14,5,Masculino
+13,SJP542966,Experimental,III,Escuela Bilingüe Loma Colorada,VI,Loma Colorada,5/5/2011,12,2,Masculino
+14,SJP917926,Control,III,Escuela Bilingüe Loma Colorada,III,Loma Colorada,11/20/2014,9,5,Masculino
+15,SJP199679,Control,III,Escuela Bilingüe Lassonde,VI,"Brd. San José, Pedregal",1/3/2011,12,4,Masculino
+16,SJP289191,Control,III,Escuela Bilingüe La Primavera,VI,"Brd. San José, Pedregal",5/8/2012,11,3,Masculino
+17,SJP959159,Control,III,Escuela Bilingüe Lassonde,III,Brd. Lassonde,9/20/2015,8,4,Masculino
+18,SJP624454,Control,III,Escuela Bilingüe Lassonde,VI,Brd. Lassonde,7/5/2011,12,4,Femenino
+19,SJP783497,Control,III,Escuela Bilingüe Lassonde,V,Brd. Lassonde,3/12/2013,10,5,Femenino
+20,SJP217516,Control,III,Escuela Bilingüe Lassonde,III,Brd. Lassonde,7/22/2014,9,3,Femenino
